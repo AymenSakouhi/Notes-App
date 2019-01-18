@@ -1,0 +1,6 @@
+node_modules/
+public/
+routes/
+views/
+bin/
+.idea/
